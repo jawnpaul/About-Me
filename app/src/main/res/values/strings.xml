@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">John Paul</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is John Paul
+\n\nI love Jollof Rice
+\n\nThe kind that is prepared in big party pot with the burnt flavour haha
+\nFun fact is that I love Tom Clancy novels especially the Sum of all fears wonderful thriller
+
+    </string>
 </resources>
